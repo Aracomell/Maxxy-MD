@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282', '️One', true],
-  ['6285380166282', '️Two', true],
-  ['6285380166282', '️Three', true],
-  ['6285380166282', '️Four', true],
-  ['6285380166282', '️Five', true],
-  ['6285380166282', '️Six', true],
-  ['6285380166282', '️Seven', true],
-  ['6285380166282', '️Eight', true],
-  ['6285380166282', '️Nine', true],
-  ['6285380166282', '️Teen', true]
+  ['6289504231588', '️One', true],
+  ['6289504231588', '️Two', true],
+  ['6289504231588', '️Three', true],
+  ['6289504231588', '️Four', true],
+  ['6289504231588', '️Five', true],
+  ['6289504231588', '️Six', true],
+  ['6289504231588', '️Seven', true],
+  ['6289504231588', '️Eight', true],
+  ['6289504231588', '️Nine', true],
+  ['6289504231588', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -95,9 +95,9 @@ global.namebot = '𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯あ⁩ 」'
+global.wm = '                「 𝙔𝙏 = Kvinz 𝘽𝙤𝙩𝙯あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯'
+global.wm3 = '⫹⫺ 𝙔𝙏 = Kvinz 𝘽𝙤𝙩𝙯'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -392,11 +392,11 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*Link*/
-global.sig = 'https://www.instagram.com/maxxy_ofc'
-global.sgh = 'https://www.github.com/MaxxyBotz'
+global.sig = 'https://www.instagram.com/rizkyrajinsekolah5'
+global.sgh = 'https://www.github.com/Aracomell'
 global.sgc = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
 global.sdc = ''
-global.snh = 'https://www.tiktok.com/@maxxy_0t'
+global.snh = 'https://www.tiktok.com/@iqyizz6'
 global.sfb = 'https://www.facebook.com/kahfiofc'
 global.syt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
 
@@ -439,9 +439,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ 𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 🇮🇩\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
-global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '𝙔𝙏 = 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 乂 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 🇮🇩'
+global.stickauth = `☂︎ Kvinz - Botz 🇮🇩\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kevin'
+global.author = 'Kevinn🇮🇩'
 global.multiplier = 10
 
 /*Pesan*/
@@ -454,17 +454,17 @@ global.gcwangsaf = 'https://chat.whatsapp.com/K6femuL8bLx6HqWS7wXofI'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/MaxxyBotz'
-global.dana = '085380166282'
-global.pulsa = '085295374964'
+global.dana = '085942139006'
+global.pulsa = '085942139006'
 global.trakteer = ''
 global.paypal = ''
-global.gopay = ''
-global.pdana = '085380166282'
+global.gopay = '089504231588'
+global.pdana = '085942139006'
 global.povo = ''
-global.pgopay = ''
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085380166282'
-global.psaweria = 'https://saweria.com/MaxxyBotz'
+global.pgopay = '089504231588'
+global.ppulsa = '085942139006'
+global.ppulsa2 = '089504231588'
+global.psaweria = 'https://saweria.com/KevinnBotz'
 
 /*Emoji*/
 global.rpg = {
