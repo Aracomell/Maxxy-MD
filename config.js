@@ -91,13 +91,13 @@ global.xckey = '7iyNa0qA'
 /*Number*/
 global.nomorbot = '6289519894515'
 global.nomorown = '6289504231588'
-global.namebot = ' Kevinz 𝘽𝙤𝙩𝙯'
+global.namebot = ' Arr 𝘽𝙤𝙩𝙯'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 𝙔𝙏 = Kvinz 𝘽𝙤𝙩𝙯あ⁩ 」'
+global.wm = '                「 𝙔𝙏 = Arr 𝘽𝙤𝙩𝙯あ⁩ 」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝙔𝙏 = Kvinz 𝘽𝙤𝙩𝙯'
+global.wm3 = '⫹⫺ 𝙔𝙏 = Arr 𝘽𝙤𝙩𝙯'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -439,9 +439,9 @@ global.htjava = '⫹⫺'
 
 /*Watermark*/
 global.stickpack = '.'
-global.stickauth = `☂︎ Kvinz - Botz 🇮🇩\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ Arr - Botz 🇮🇩\n⫹⫺ 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩\nwa.me/${global.nomorbot}`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kevin'
-global.author = 'Kevinn🇮🇩'
+global.author = 'Arr🇮🇩'
 global.multiplier = 10
 
 /*Pesan*/
